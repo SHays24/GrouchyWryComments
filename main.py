@@ -29,7 +29,7 @@ class MainApplication(Tk):
     setFolder()
   class PhotoRow(Tk):
     def __init__(self):
-      f = open("settings.txt", "r")
+      
       
 
       return
